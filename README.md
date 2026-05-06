@@ -13,6 +13,7 @@ https://doi.org/10.1038/s41598-018-24648-w
 - `SIR_mapping.m` — direct sampling, single realization
 - `mcmc_sir_meanfield.m` — rejection-free Gibbs sampler, mean-field variant
 - `mcmc_sir_exact.m` — rejection-free Gibbs sampler, exact variant with dynamical correlations
+- `interventions.m` — time-critical vaccination strategies (random, hubs, temporal); reproduces Fig. 7
 
 ## Usage
 
